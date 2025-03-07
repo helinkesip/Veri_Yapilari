@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{450b5834-1713-4429-8cbe-d8546d6c840b}</ProjectGuid>
-    <RootNamespace>VeriYapilari</RootNamespace>
+    <ProjectGuid>{a2348fb8-3306-4a9b-9176-1ecf27e1d06c}</ProjectGuid>
+    <RootNamespace>ikiboyutluDinamikdizi</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Veri_Yapilari.cpp" />
+    <ClCompile Include="iki_boyutlu_Dinamik_dizi.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
