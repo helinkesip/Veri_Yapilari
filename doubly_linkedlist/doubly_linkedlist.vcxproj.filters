@@ -18,5 +18,8 @@
     <ClCompile Include="doubly_linkedlist.cpp">
       <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
+    <ClCompile Include="doubly_linkedlist_tt.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
