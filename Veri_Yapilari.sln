@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "queue_kuyruk", "queue_kuyru
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stack", "Stack\Stack.vcxproj", "{F5B39D66-9B9A-45BF-8906-C05C62A9F8CA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "siralama_algoritmalari", "siralama_algoritmalari\siralama_algoritmalari.vcxproj", "{34E626CF-B1ED-4A60-AC97-AE9640D5BC7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{F5B39D66-9B9A-45BF-8906-C05C62A9F8CA}.Release|x64.Build.0 = Release|x64
 		{F5B39D66-9B9A-45BF-8906-C05C62A9F8CA}.Release|x86.ActiveCfg = Release|Win32
 		{F5B39D66-9B9A-45BF-8906-C05C62A9F8CA}.Release|x86.Build.0 = Release|Win32
+		{34E626CF-B1ED-4A60-AC97-AE9640D5BC7E}.Debug|x64.ActiveCfg = Debug|x64
+		{34E626CF-B1ED-4A60-AC97-AE9640D5BC7E}.Debug|x64.Build.0 = Debug|x64
+		{34E626CF-B1ED-4A60-AC97-AE9640D5BC7E}.Debug|x86.ActiveCfg = Debug|Win32
+		{34E626CF-B1ED-4A60-AC97-AE9640D5BC7E}.Debug|x86.Build.0 = Debug|Win32
+		{34E626CF-B1ED-4A60-AC97-AE9640D5BC7E}.Release|x64.ActiveCfg = Release|x64
+		{34E626CF-B1ED-4A60-AC97-AE9640D5BC7E}.Release|x64.Build.0 = Release|x64
+		{34E626CF-B1ED-4A60-AC97-AE9640D5BC7E}.Release|x86.ActiveCfg = Release|Win32
+		{34E626CF-B1ED-4A60-AC97-AE9640D5BC7E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
